@@ -215,7 +215,7 @@ Reference: https://surge.sh/help/adding-a-custom-domain
 
 **Answer:** Yes :heavy_check_mark:
 
-The host will either have a CNAME record pointing to `expample.surveygizmo.comh`.
+The host will either have a CNAME record pointing to `expample.surveygizmo.com`.
 
 Reference: https://help.surveygizmo.com/help/set-up-a-branded-subdomain
 
