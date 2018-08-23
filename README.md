@@ -49,7 +49,7 @@ $ cat aelfjj1or81uegj9ea8z31zro.html
 |[Squarespace](#squarespace)|No|||
 |[Statuspage](#statuspage)|Yes|`You are being redirected`|https://hackerone.com/reports/49663|
 |[Surge.sh](#surge.sh)|Yes|`project not found`|https://surge.sh/help/adding-a-custom-domain|
-|[SurveyGizmo(#surveygizmo)|Yes|`Oh dear! We can’t seem to find that page, but all is not lost.`|https://help.surveygizmo.com/help/set-up-a-branded-subdomain|
+|[SurveyGizmo](#surveygizmo)|Yes|`Oh dear! We can’t seem to find that page, but all is not lost.`|https://help.surveygizmo.com/help/set-up-a-branded-subdomain|
 |[Tumblr](#tumblr)|Yes|`Whatever you were looking for doesn't currently exist at this address`||
 |[Tilda](#tilda)|No|`Please renew your subscription`||
 |[Unbounce](#unbounce)|Yes|`The requested URL was not found on this server.`|https://hackerone.com/reports/202767|
