@@ -49,6 +49,7 @@ $ cat aelfjj1or81uegj9ea8z31zro.html
 |[Squarespace](#squarespace)|No|||
 |[Statuspage](#statuspage)|Yes|`You are being redirected`|https://hackerone.com/reports/49663|
 |[Surge.sh](#surge.sh)|Yes|`project not found`|https://surge.sh/help/adding-a-custom-domain|
+|[SurveyGizmo(#surveygizmo)|Yes|`Oh dear! We can’t seem to find that page, but all is not lost.`|https://help.surveygizmo.com/help/set-up-a-branded-subdomain|
 |[Tumblr](#tumblr)|Yes|`Whatever you were looking for doesn't currently exist at this address`||
 |[Tilda](#tilda)|No|`Please renew your subscription`||
 |[Unbounce](#unbounce)|Yes|`The requested URL was not found on this server.`|https://hackerone.com/reports/202767|
@@ -209,6 +210,14 @@ Unbounce takeovers are also only possible in cases where an Unbounce CNAME has b
 The host will either have a CNAME record pointing to `na-west1.surge.sh` or an A record for `45.55.110.124`.
 
 Reference: https://surge.sh/help/adding-a-custom-domain
+
+## SurveyGizmo
+
+**Answer:** Yes :heavy_check_mark:
+
+The host will either have a CNAME record pointing to `expample.surveygizmo.comh`.
+
+Reference: https://help.surveygizmo.com/help/set-up-a-branded-subdomain
 
 ## Freshdesk
 **Answer:** No :negative_squared_cross_mark:
